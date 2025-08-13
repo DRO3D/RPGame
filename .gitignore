@@ -1,0 +1,30 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+[Aa]ssets/AssetStore-*
+SysInfo.txt
+
+# Rider / VSCode / IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Crash/Report
+*.pidb
+*.mdb
+*.pdb
+*.opendb
+
+# Addressables/Generated
+[Aa]ssets/AddressableAssetsData/*/Windows/
+[Aa]ssets/StreamingAssets/aa/*
